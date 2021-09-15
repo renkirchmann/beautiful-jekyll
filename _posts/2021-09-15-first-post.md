@@ -14,17 +14,17 @@ I shall begin my lovely post by linking a [random](https://randomwebsite.com/) -
 
 ## there's more
 
-Here's a useless table:
+allow me to show you this important table:
 
-| Number | Next number | Previous number |
+| 1 | 2 | 3 |
 | :------ |:--- | :--- |
-| ren | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| ren | is | so |
+| cool | bc | she |
+| made | this | website |
+| ha | ha | ha |
 
 
-How about a yummy crepe?
+Do you like these images?
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
