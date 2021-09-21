@@ -9,7 +9,8 @@ comments: true
 ---
 
 Due before class meets Thursday, September 23
-Find two examples of design – one good and one bad. The examples should be in tech but can be software or something physical in society. For each example, take a screenshot of the part of the design that you are evaluating (if you are writing about something that is not software, find an image of the product/design) and write a short paragraph (4-6 sentences) explaining what about that design is either good or bad. Publish your write-up as a post on your website with the title “Good vs. Bad Design”. The screenshot/image that you use should appear in the post with the description of each image appearing below the image.
+
+Find two examples of design – one good and one bad. The examples should be in tech but can be software or something physical in society. 
 
 ## GOOD DESIGN: THE TABLE
 
