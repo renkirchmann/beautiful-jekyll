@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sample blog post
+title: Good vs. Bad Design
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [design]
 comments: true
 ---
 
@@ -26,7 +26,7 @@ Here's a useless table:
 
 How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Crepe](funny-weird-wtf-stock-photos-19-5a3926af95d9d__700.jpg)
 
 It can also be centered!
 
