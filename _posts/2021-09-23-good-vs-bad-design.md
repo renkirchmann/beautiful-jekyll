@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Good vs. Bad Design
-subtitle: Each post also has a subtitle
+subtitle: hw 1.3
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [design]
