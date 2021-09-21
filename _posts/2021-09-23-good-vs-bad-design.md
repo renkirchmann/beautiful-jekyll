@@ -8,8 +8,6 @@ tags: [design]
 comments: true
 ---
 
-Due before class meets Thursday, September 23
-
 Find two examples of design – one good and one bad. The examples should be in tech but can be software or something physical in society. 
 
 ## GOOD DESIGN: THE TABLE
