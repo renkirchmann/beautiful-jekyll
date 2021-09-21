@@ -24,6 +24,8 @@ The table is such a good design because of its stability, versatility, massive a
 
 The insect net, often used to attempt to keep small or large bugs from getting into your house, is a poorly designed device. Not only does it fail to keep insects out, it is also an extreme safety hazard for people who have trouble seeing or just people in general who have very little awareness of where they are going. I myself have walked into this forsaken net several times as a child due to its effort to look as invisible as humanly possible in order to not disrupt your view out your doorway or window. Additionally, the small holes in the net allow insects to come in and out at ease, so the only real thing the net has ever caught is you. To make matters worse, the net is very expensive to replace, requiring you to hire someone to help you every time it happens.
 
+* is there a way to crop the second image so it matches the size of the fit?
+
 
 
 ### Notification
