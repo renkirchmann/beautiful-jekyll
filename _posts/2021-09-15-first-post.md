@@ -28,6 +28,8 @@ Do you like these images?
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
+![crepe](/assets/img/funny-weird-wtf-stock-photos-19-5a3926af95d9d__700.jpg)
+
 It can also be centered!
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
