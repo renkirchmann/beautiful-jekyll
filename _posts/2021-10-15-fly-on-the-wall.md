@@ -35,9 +35,6 @@ Although I did work with Lynn in the initial stages of the project, I chose to w
 
 
 
-## Boxes
-You can add notification, warning and error boxes like this:
-
 ### Notification
 
 {: .box-note}
